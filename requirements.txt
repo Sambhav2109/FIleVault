@@ -1,0 +1,2 @@
+# FileVault uses Python's standard library only.
+# Tkinter is included with standard Python installations on most systems.
